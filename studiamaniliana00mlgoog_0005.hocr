@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./studiamaniliana00mlgoog_0005.png"; bbox 0 0 3292 5200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 461 2344 1380 2490">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 461 2344 1380 2490">
+     <span class='ocr_line' id='line_1_1' title="bbox 461 2344 1380 2416; baseline -0.003 -16"><span class='ocrx_word' id='word_1_1' title='bbox 461 2344 524 2400; x_wconf 88' lang='lat' dir='ltr'><strong>Von</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 543 2346 593 2400; x_wconf 87' lang='lat' dir='ltr'><strong>der</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 611 2345 746 2400; x_wconf 63' lang='lat' dir='ltr'><strong>Fakultat</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 764 2345 806 2400; x_wconf 75' lang='lat' dir='ltr'><strong>als</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 825 2345 1159 2416; x_wconf 71' lang='lat' dir='ltr'><strong>Innugumldissertation</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1178 2359 1380 2414; x_wconf 78' lang='lat' dir='ltr'>angenommen</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 807 2435 1036 2490; baseline -0.004 -1"><span class='ocrx_word' id='word_1_7' title='bbox 807 2451 853 2489; x_wconf 78' lang='lat' dir='ltr'><strong>am</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 871 2439 896 2489; x_wconf 84' lang='lat'><strong>6.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 910 2435 943 2490; x_wconf 91' lang='grc' dir='ltr'><strong>Π.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 960 2440 1036 2488; x_wconf 86' lang='grc'>1901.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 724 4366 1121 4398">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 724 4366 1121 4398">
+     <span class='ocr_line' id='line_1_3' title="bbox 724 4366 1121 4398; baseline 0 -2"><span class='ocrx_word' id='word_1_11' title='bbox 724 4367 832 4398; x_wconf 69' lang='lat' dir='ltr'><strong>mmm</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 846 4367 915 4397; x_wconf 73' lang='grc' dir='ltr'><strong>’ΝΡῙΙ</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 928 4367 951 4398; x_wconf 75' lang='grc' dir='ltr'><strong>Β.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 961 4366 983 4397; x_wconf 65' lang='grc' dir='ltr'><strong>(ὅ.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 993 4367 1121 4397; x_wconf 68' lang='lat' dir='ltr'><strong>ulmum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 743 4462 796 4612">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 743 4462 796 4612">
+     <span class='ocr_line' id='line_1_4' title="bbox 743 4462 796 4612; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 743 4462 796 4612; x_wconf 75' lang='lat' dir='ltr'><em>l</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1650 5200">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1650 5200">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1650 5200; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1650 5200; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
